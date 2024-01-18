@@ -1,0 +1,44 @@
+.grid-item-1 {
+    background-color: aqua;
+}
+
+.grid-item-2 {
+    background-color: rgb(86, 186, 32);
+}
+
+.grid-item-3 {
+    background-color: red;
+}
+
+.grid-item-4 {
+    background-color: green;
+}
+
+.grid-item-5 {
+    background-color: yellow;
+}
+
+.grid-item-6 {
+    background-color: magenta;
+}
+
+.grid-item-7 {
+    background-color: darkgray;
+}
+
+.grid-item-8 {
+    background-color: rebeccapurple;
+}
+
+.grid-item-9 {
+    background-color: chartreuse;
+}
+
+.grid-contianer {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+
+}
